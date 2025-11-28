@@ -1,2 +1,2 @@
-print ('Olga Macko')
-print ('ku-ku vsem!')
+print ('Armands Turčinovičs')
+print ('ku-ku visiem!')
